@@ -1,0 +1,7 @@
+---
+name: Bergadano's blocklist 
+homepage: 
+---
+*://*.tiktok.com/*
+/example\.(net|org)/
+title*="example"i
